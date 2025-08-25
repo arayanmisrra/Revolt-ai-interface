@@ -1,0 +1,7 @@
+{
+  "name": "Revolt Motors AI Voice Assistant",
+  "description": "A voice-powered AI assistant for Revolt Motors. Users can ask about electric motorcycles, book test rides, and get information through a conversational voice interface.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
